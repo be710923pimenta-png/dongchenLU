@@ -11,6 +11,8 @@ GitHub Pages：<https://be710923pimenta-png.github.io/dongchenLU/>
 - 飞书多维表格与低代码页面入口
 - 经营数据与产能监控看板
 - 爆款剧目数据看板
+- 高校审批管理系统
+- 剧多多项目管理模块产品规划与优化 Demo
 - 项目职责与脱敏说明
 
 ## 说明
